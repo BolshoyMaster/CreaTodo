@@ -1,0 +1,46 @@
+body {
+	background-image:url(../../res/pexels-paint-edited-bg.jpg);
+	background-size: 1800px;
+}
+
+header {
+	background-color: #e0e0ca;
+}
+.banner {
+	display:flex;
+	padding-bottom:6px;
+	padding-left:10px;
+}
+
+.banner h1 {
+	color:red;
+	font-family:"Garamond";
+}
+
+.banner .icon {
+	column-width:15px;
+}
+
+header {
+	padding-bottom:15px;
+}
+
+main {
+	padding-top:16px;
+	padding-left:8px;
+	padding-right:10px;
+}
+
+.description p {
+	color:blue;
+	font-size:23px;
+	font-family:"Garamond";
+}
+
+.tag {
+	font-size:12px;
+}
+
+.banner {
+	padding-left:3px;
+}
